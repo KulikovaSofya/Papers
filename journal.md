@@ -3,3 +3,5 @@ my cool paper!
 INtro
 refs
 results
+figures
+
