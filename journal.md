@@ -1,6 +1,6 @@
 my cool paper!
 # Me and friends 
-cool affiliations
+Affiliations
 INtro
 refs
 results
